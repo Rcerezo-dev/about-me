@@ -8,7 +8,7 @@
 <h3 align="center">Building LLM-powered systems · RAG, Agents & MLOps · Based in Spain</h3>
 
 <p align="center">
-  Currently transitioning into AI engineering, I focus on building real-world projects that bridge the gap between experimentation and production-ready systems.
+  With a background in English education and 6+ years in the classroom, I transitioned into AI engineering to build the tools teachers and students actually need. I focus on real-world systems that go from experimentation to deployment.
 </p>
 
 <p align="center"><i>I don't just train models — I build systems around them.</i></p>
@@ -119,7 +119,7 @@ If you're working on something interesting or looking for someone who builds, fe
 <h3 align="center">Construyendo sistemas con LLMs · RAG, Agentes & MLOps · España</h3>
 
 <p align="center">
-  En transición hacia la ingeniería de IA, me enfoco en construir proyectos reales que conectan la experimentación con los sistemas listos para producción.
+  Con formación en educación y más de 6 años en el aula, di el salto a la ingeniería de IA para construir las herramientas que profesores y alumnos realmente necesitan. Me enfoco en sistemas reales que van de la experimentación al despliegue.
 </p>
 
 <p align="center"><i>No solo entreno modelos — construyo los sistemas que los rodean.</i></p>
